@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(153, 204, 64);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*#anjo1{
+    color:rgb(56, 87, 3) ;
+    width: 90vw;
+    display: flex;
+    margin:7px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(241, 245, 245);
+}
+*#eu{
+    color:rgb(104, 161, 6) ;
+    width: 70vw;
+    margin:7px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(241, 245, 245);
+}
